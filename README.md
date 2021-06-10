@@ -5,3 +5,4 @@ By default i setup the project to after play each DirinDirin daily animation pla
 Also you can turn off unity ads by not initilized the id at the begiing of your project.
 
 All the source you will need is contain in AndroidSource/Java also for unity ads you will need unity-ads.jar inside AndroidSource/libs.
+All layout and resources are included in res directory
