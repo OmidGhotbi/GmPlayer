@@ -6,3 +6,6 @@ Also you can turn off unity ads by not initilized the id at the begiing of your 
 
 All the source you will need is contain in AndroidSource/Java also for unity ads you will need unity-ads.jar inside AndroidSource/libs.
 All layout and resources are included in res directory
+
+# Future plan
+I will add all other platfor support of the project as soon as i have enough time to clean up the code. it will be contain iOS video player writen in swift/objective C, Windows video player writen in C#, linux video player writen in C++ , and Mac video player writen in objective C.
