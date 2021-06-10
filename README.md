@@ -17,5 +17,10 @@ All the source you will need is contain in AndroidSource/Java also for unity ads
 All layout and resources are included in res directory
 
 # Future plan
-I will add all other platforms support of the project as soon as i have enough time to clean up the code. it will be contain iOS video player writen in swift/objective C, Windows video player writen in C#, linux video player writen in C++ , and Mac video player writen in objective C.
+I will add all other platforms support of the project as soon as i have enough time to clean up the code.
+It will be contain:
+**iOS video player writen in swift/objective
+Windows video player writen in C#
+linux video player writen in C++
+Mac video player writen in objective C.C**
 
