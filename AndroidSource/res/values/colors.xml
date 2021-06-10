@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="c_aqua">#00ffff</color>
+	<color name="c_black">#000000</color>
+	<color name="c_blue">#0000ff</color>
+	<color name="c_dkgray">#404040</color>
+	<color name="c_fuchsia">#ff00ff</color>
+	<color name="c_gray">#808080</color>
+	<color name="c_green">#008000</color>
+	<color name="c_lime">#00ff00</color>
+	<color name="c_ltgray">#c0c0c0</color>
+	<color name="c_maroon">#800000</color>
+	<color name="c_navy">#000080</color>
+	<color name="c_olive">#808000</color>
+	<color name="c_orange">#ffa040</color>
+	<color name="c_purple">#800080</color>
+	<color name="c_red">#ff0000</color>
+	<color name="c_silver">#c0c0c0</color>
+	<color name="c_teal">#008080</color>
+	<color name="c_white">#ffffff</color>
+	<color name="c_yellow">#ffff00</color>
+</resources>
