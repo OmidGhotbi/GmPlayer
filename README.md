@@ -19,8 +19,8 @@ All layout and resources are included in res directory
 # Future plan
 I will add all other platforms support of the project as soon as i have enough time to clean up the code.
 It will be contain:
-**iOS video player writen in swift/objectiveC**
-**Windows video player writen in C#**
-**linux video player writen in C++**
-**Mac video player writen in objective C**
+**iOS video player writen in swift/objectiveC**<br/>
+**Windows video player writen in C#**<br/>
+**linux video player writen in C++**<br/>
+**Mac video player writen in objective C**<br/>
 
